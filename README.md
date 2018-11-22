@@ -1,5 +1,5 @@
 # ANZ_Chengdu_rank4_solution
-澳新银行数据竞赛（DC平台）第四名方案
+澳新银行数据竞赛（DC平台）第五名方案
 
 竞赛地址：http://www.pkbigdata.com/common/cmpt/ANZ%20Chengdu%20Data%20Science%20Competition_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html?lang=en_US  
 数据：https://pan.baidu.com/s/1tkCG1jlLfEo49sgGaBy72Q  Password：j52p   
@@ -34,4 +34,4 @@
      
      
 # 后记
-这次比赛的时间只有两周时间，所以时间很紧张，很多部分并没有做到尽致，不过我们已经尽出全力，只可惜差一名未能得奖，希望下场比赛能得奖而归。  
+这次比赛的时间只有两周时间，所以时间很紧张，很多部分并没有做到尽致，不过我们已经尽出全力，只可惜差两名未能得奖，希望下场比赛能得奖而归。  
