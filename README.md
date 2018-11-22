@@ -4,8 +4,8 @@
 竞赛地址：http://www.pkbigdata.com/common/cmpt/ANZ%20Chengdu%20Data%20Science%20Competition_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html?lang=en_US  
 数据：https://pan.baidu.com/s/1tkCG1jlLfEo49sgGaBy72Q  Password：j52p   
 
-# 方案思路
-
+# 方案思路  
+jupyter中有详细过程  
 **1.数据分析**  
 
      *分析每个特征的分布情况，可找到的数据分布特点。 
