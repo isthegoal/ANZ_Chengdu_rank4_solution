@@ -2,8 +2,9 @@
 澳新银行数据竞赛（DC平台）第四名方案
 
 竞赛地址：http://www.pkbigdata.com/common/cmpt/ANZ%20Chengdu%20Data%20Science%20Competition_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html?lang=en_US
+数据链接：https://pan.baidu.com/s/1tkCG1jlLfEo49sgGaBy72Q  Password：j52p 
 
-方案思路
+# 方案思路
 
 **1.数据分析**  
 
